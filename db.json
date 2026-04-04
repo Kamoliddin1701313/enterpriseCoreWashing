@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jasur",
+      "text": "TypeScript da birinchi marta CRUD qildim, juda zo'r ekan!",
+      "comment": "Omad sizga, davom eting!",
+      "image": "https://picsum.photos/id/1/200/150",
+      "createdAt": "2026-04-01"
+    },
+    {
+      "id": 2,
+      "name": "Kamol",
+      "text": "Xalq bankida intervyu bor, juda tayyorlanyapman",
+      "comment": "Ishonchim komil, qabul qilishadi!",
+      "image": "https://picsum.photos/id/2/200/150",
+      "createdAt": "2026-04-02"
+    },
+    {
+      "id": 3,
+      "name": "Shoxrux",
+      "text": "React va TypeScript birgalikda ishlatish qiyin emas ekan",
+      "comment": "To'g'ri aytasiz, men ham sevib qoldim",
+      "image": "https://picsum.photos/id/3/200/150",
+      "createdAt": "2026-04-02"
+    },
+    {
+      "id": 4,
+      "name": "Dilnoza",
+      "text": "Bugun json-server o'rnatdim, juda qulay ekan backend qilmasdan",
+      "comment": "Ayniqsa prototip yasash uchun ajoyib",
+      "image": "https://picsum.photos/id/4/200/150",
+      "createdAt": "2026-04-03"
+    },
+    {
+      "id": 5,
+      "name": "Sardor",
+      "text": "CRUD operatsiyalarini o'rgandim, endi o'z loyihamni qilyapman",
+      "comment": "Qanday loyiha qilyapsiz?",
+      "image": "https://picsum.photos/id/5/200/150",
+      "createdAt": "2026-04-03"
+    },
+    {
+      "id": 6,
+      "name": "Madina",
+      "text": "TypeScript da type va interface farqini endi tushundim",
+      "comment": "Menga ham tushuntirib bering",
+      "image": "https://picsum.photos/id/6/200/150",
+      "createdAt": "2026-04-03"
+    },
+    {
+      "id": 7,
+      "name": "Aziz",
+      "text": "Vite bilan React loyihasi tez ishga tushadi, tavsiya qilaman",
+      "comment": "Create React App dan tezroqmi?",
+      "image": "https://picsum.photos/id/7/200/150",
+      "createdAt": "2026-04-04"
+    },
+    {
+      "id": 8,
+      "name": "Gulnora",
+      "text": "useEffect hook ini o'rganish biroz vaqt oldi, lekin hozir tushundim",
+      "comment": "Asosiysi dependency array ni to'g'ri yozish",
+      "image": "https://picsum.photos/id/8/200/150",
+      "createdAt": "2026-04-04"
+    },
+    {
+      "id": 9,
+      "name": "Javlon",
+      "text": "Pullik avtomoykalar loyihasini qilyapman, Toshkent bo'ylab",
+      "comment": "Qiziqarli loyiha, omad!",
+      "image": "https://picsum.photos/id/9/200/150",
+      "createdAt": "2026-04-04"
+    },
+    {
+      "id": 10,
+      "name": "Nigora",
+      "text": "Intervyuga tayyorgarlik ko'ryapman, shu CRUD loyihasini tayyorladim",
+      "comment": "Albatta qabul qilishadi, ishonch bilan bor!",
+      "image": "https://picsum.photos/id/10/200/150",
+      "createdAt": "2026-04-04"
+    }
+  ]
+}
